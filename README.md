@@ -12,7 +12,7 @@ The goal of this project was to build a neural network model capable of accurate
 
 To guide our methodology, we referred to the research presented in the Astrophysical Journal titled “Using Convolutional Neural Networks to Detect Weak Gravitational Lensing.” This paper provided valuable insights into leveraging convolutional neural networks (CNNs) for this specific task. The competition challenged us to apply advanced machine learning techniques to improve upon traditional methods used in astronomy.
 
-Structure
+# Structure
 
 	•	Data Preprocessing: Handling and cleaning astronomical data to feed into our model.
 	•	Model Design: Building and fine-tuning a CNN architecture for detecting weak lensing effects.
