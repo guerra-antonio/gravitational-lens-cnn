@@ -1,6 +1,6 @@
 # Astrodataton 2024 - Weak Gravitational Lenses
 
-![fotolinda](https://github.com/user-attachments/assets/51ebfa16-e772-4607-8814-ea1e1ed16418)
+![fotolinda](https://github.com/user-attachments/assets/7287b217-c4cb-46cd-b0ce-2c44c3414c6c)
 
 This repository contains the work produced by our team for Astrodataton 2024, a competition that focuses on developing neural network models for processing astronomical data related to weak gravitational lenses.
 
